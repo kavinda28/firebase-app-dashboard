@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "352332996340",
+    "firebase_url": "https://techgenix-c7af9-default-rtdb.firebaseio.com",
+    "project_id": "techgenix-c7af9",
+    "storage_bucket": "techgenix-c7af9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352332996340:android:68873bc4b204c960b608a1",
+        "android_client_info": {
+          "package_name": "com.example.techgenix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352332996340-00773l33mb7g9gkq229gcqp5jgp889m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.techgenix",
+            "certificate_hash": "70533fc4beb9de99fa0f1d30fde8d0733f288425"
+          }
+        },
+        {
+          "client_id": "352332996340-l6sdjod2u8lc0oahnulu8v2lnleh7a5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdtLjl7UbEccPTH9_XBQAoC8DCC0dsM9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352332996340-l6sdjod2u8lc0oahnulu8v2lnleh7a5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
